@@ -1,0 +1,17 @@
+SpeedUP
+
+Se uso un vector con cien millones de elementos.
+
+El SpeedUP se saca con el tiempo serial dividido el tiempo paralelo.
+
+               Nucleos		Tiempo		SpeedUP		 .out utilizado
+
+Serial		1		 46.03		   /		 serial.42015.out 
+
+Paralelo	4		 17.46		  2.63		 parallel4.42016.out
+
+Paralelo	8		 15.76		  2.92		 parallel8.42017.out
+
+Paralelo	12		 6.70		  6.87		 parallel12.42018.out
+
+Paralelo	16		 5.88		  7.82		 parallel16.42019.out
