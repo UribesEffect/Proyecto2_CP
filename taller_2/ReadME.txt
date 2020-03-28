@@ -23,7 +23,7 @@ que generaste en el vector.dat .
 
 
 
-$ sbatch GENERATE.sg generate argv1 : Manda a correr el programa en la cola de cluster, 
+$ sbatch GENERATE.sh generate argv1 : Manda a correr el programa en la cola de cluster, 
 note que argv1 se refiere a la cantidad de numeros aleatoreos que vas a meter en el
 vector.dat(porfavor usar argv1 = 100000000 '100Mill' ) .
 
